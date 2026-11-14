@@ -6,6 +6,7 @@
 - 預覽頁面已設定 `noindex, nofollow`，並透過 `robots.txt` 阻擋搜尋引擎抓取。
 - 正式網站仍維持在原 repo 的 `main` 分支；此預覽不代表已核准上線。
 - 來源版本：`JWLIOUD/therapist-profile` 的 `codex/site-architecture-a-preview-20261115` 分支。
+- 集中審閱與留言：[原專案 Draft PR #15](https://github.com/JWLIOUD/therapist-profile/pull/15)。
 
 ## 審閱重點
 
